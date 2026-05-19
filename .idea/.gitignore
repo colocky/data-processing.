@@ -1,0 +1,10 @@
+# Default ignored files
+/../../data-processing./.idea/shelf/
+/../../data-processing./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../data-processing./.idea/httpRequests/
+# Ignored default folder with query files
+/../../data-processing./.idea/queries/
+# Datasource local storage ignored files
+/../../data-processing./.idea/dataSources/
+/../../data-processing./.idea/dataSources.local.xml
